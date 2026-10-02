@@ -6,7 +6,7 @@ Workspace prepared for **Saturday, October 3, 2026** (Asia/Beirut).
 
 1. Agree on the problem, target user, and one demonstrable outcome with Dr. Ammar.
 2. Fill in [the project brief](docs/PROJECT_BRIEF.md) and choose the stack.
-3. Run `powershell -NoProfile -File scripts/check.ps1` to check this workspace.
+3. Run `powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check.ps1` to check this workspace. This applies only to that command.
 4. Follow [the hackathon checklist](docs/HACKATHON_CHECKLIST.md).
 5. Build one complete user journey and rehearse [the demo](docs/DEMO.md).
 
