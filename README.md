@@ -2,6 +2,15 @@
 
 Workspace prepared for **Saturday, October 3, 2026** (Asia/Beirut).
 
+GitHub: [by-aseel/Hackathon](https://github.com/by-aseel/Hackathon) (public).
+
+On another machine:
+
+```powershell
+git clone https://github.com/by-aseel/Hackathon.git
+cd Hackathon
+```
+
 ## Start here
 
 1. Agree on the problem, target user, and one demonstrable outcome with Dr. Ammar.
